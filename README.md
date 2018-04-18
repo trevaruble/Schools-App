@@ -33,9 +33,7 @@ Explain what these tests test and why
 ### And coding style tests
 
 
-```
-Give an example
-```
+
 
 ## Deployment
 
