@@ -1,0 +1,97 @@
+.hero {
+
+    height: 100px;
+    background-color: dodgerblue;
+    //padding: 50px;
+    margin: 2px;
+    
+}
+
+/*FORM*/
+
+form fieldset{
+    border: solid 1px grey;
+}
+
+form legend{
+    color: #1E90FF;
+}
+
+form{
+    
+    margin-top: 10px;
+}
+
+
+.hero h2{
+    //padding: 10px;
+    color: white;
+}
+
+
+
+/*Menu Settings */
+#brand{
+    
+    //vertical-align: middle;
+    padding: 20px;
+}
+
+#brand img{
+
+    width: 250px;
+}
+
+.menu li a{
+    color: white;
+    
+}
+
+.menu_right{
+    
+    margin-top: -80px;
+    padding: 10px;
+    float: right;
+    
+}
+
+
+
+
+/* Media Query */
+@media screen and (max-width: 700px) {
+    
+    .hero h2{
+    //padding: 10px;
+    color: lightblue;
+}
+    
+    
+    .menu_right{
+    
+    margin-top: -80px;
+    padding: 10px;
+    float: right;
+    
+}
+    
+ 
+    @media screen and (max-width: 665px) {
+    
+    .hero h2{
+    //padding: 10px;
+    font-size: 30px;
+    color: lightgreen;
+}
+    
+    
+    .menu_right{
+    
+    margin-top: -50px;
+    padding: 10px;
+    float: left;
+    
+}
+    
+    
+    
